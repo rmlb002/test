@@ -1,0 +1,538 @@
+2017-08-15 16:21:47,708 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Tue Aug 15 16:21:47 CST 2017]; root of context hierarchy
+2017-08-15 16:21:47,810 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:21:48,331 INFO [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:00,763 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Tue Aug 15 16:24:00 CST 2017]; root of context hierarchy
+2017-08-15 16:24:00,866 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:24:01,132 INFO [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:01,132 ERROR [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:01,133 WARN [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:24,029 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4e1d422d: startup date [Tue Aug 15 16:24:24 CST 2017]; root of context hierarchy
+2017-08-15 16:24:24,151 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:24:24,449 INFO [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:24,449 ERROR [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:24:24,449 WARN [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 16:34:06,287 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:34:06 CST 2017]; root of context hierarchy
+2017-08-15 16:34:06,394 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:34:06,658 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:35:00,558 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:35:00 CST 2017]; root of context hierarchy
+2017-08-15 16:35:00,645 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:35:00,877 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:35:18,903 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:35:18 CST 2017]; root of context hierarchy
+2017-08-15 16:35:18,982 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:35:19,234 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:50:14,198 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:50:14 CST 2017]; root of context hierarchy
+2017-08-15 16:50:14,293 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:50:14,858 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:50:14,887 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 16:50:44,858 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:50:44 CST 2017]; root of context hierarchy
+2017-08-15 16:50:44,988 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:50:45,493 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:50:45,496 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 16:51:56,327 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:51:56 CST 2017]; root of context hierarchy
+2017-08-15 16:51:56,426 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:51:56,860 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:51:56,873 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 16:51:56,874 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=北京]
+2017-08-15 16:54:50,588 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:54:50 CST 2017]; root of context hierarchy
+2017-08-15 16:54:50,750 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:54:51,148 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dept2' defined in class path resource [applicationContext.xml]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zhiyou100.test.vo.Dept]: No default constructor found; nested exception is java.lang.NoSuchMethodException: com.zhiyou100.test.vo.Dept.<init>()
+2017-08-15 16:55:50,487 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 16:55:50 CST 2017]; root of context hierarchy
+2017-08-15 16:55:50,593 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 16:55:51,310 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 16:55:51,314 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 16:55:51,314 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海]
+2017-08-15 17:02:48,102 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Tue Aug 15 17:02:48 CST 2017]; root of context hierarchy
+2017-08-15 17:02:48,252 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:02:48,826 INFO [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:02:48,826 ERROR [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:02:48,826 WARN [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:02:59,764 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Tue Aug 15 17:02:59 CST 2017]; root of context hierarchy
+2017-08-15 17:02:59,893 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:03:00,410 INFO [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:03:00,410 ERROR [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:03:00,411 WARN [com.zhiyou100.test.main.TestIMessageService] - www.baidu.com
+2017-08-15 17:06:40,404 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:06:40 CST 2017]; root of context hierarchy
+2017-08-15 17:06:40,525 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:06:40,977 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:06:40,985 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 17:06:40,985 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海]
+2017-08-15 17:06:40,986 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=101, dname=研发部, loc=上海]]
+2017-08-15 17:07:18,674 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:07:18 CST 2017]; root of context hierarchy
+2017-08-15 17:07:18,776 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:07:19,340 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:07:19,347 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 17:07:19,348 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海]
+2017-08-15 17:07:19,349 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州]]
+2017-08-15 17:32:01,647 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:32:01 CST 2017]; root of context hierarchy
+2017-08-15 17:32:01,800 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:32:02,260 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [com.zhiyou100.com.test.vo.Emp] for bean with name 'emp2' defined in class path resource [applicationContext.xml]; nested exception is java.lang.ClassNotFoundException: com.zhiyou100.com.test.vo.Emp
+2017-08-15 17:33:13,466 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:33:13 CST 2017]; root of context hierarchy
+2017-08-15 17:33:13,575 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:33:14,061 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:33:14,068 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州]
+2017-08-15 17:33:14,071 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海]
+2017-08-15 17:33:14,071 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州]]
+2017-08-15 17:33:14,075 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港]]
+2017-08-15 17:40:45,466 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:40:45 CST 2017]; root of context hierarchy
+2017-08-15 17:40:45,561 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:40:46,130 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:40:46,132 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null]
+2017-08-15 17:40:46,133 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null]
+2017-08-15 17:40:46,134 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null]]
+2017-08-15 17:40:46,140 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null]]
+2017-08-15 17:40:46,141 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组]]
+2017-08-15 17:45:01,733 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:45:01 CST 2017]; root of context hierarchy
+2017-08-15 17:45:01,856 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:45:02,334 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:45:02,336 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null]
+2017-08-15 17:45:02,336 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null]
+2017-08-15 17:45:02,338 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null]]
+2017-08-15 17:45:02,345 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null]]
+2017-08-15 17:45:02,345 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null]
+2017-08-15 17:45:02,345 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组]]
+2017-08-15 17:50:13,253 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:50:13 CST 2017]; root of context hierarchy
+2017-08-15 17:50:13,362 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:50:13,878 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:50:13,880 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null]
+2017-08-15 17:50:13,880 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null]
+2017-08-15 17:50:13,881 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null]]
+2017-08-15 17:50:13,883 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null]]
+2017-08-15 17:50:13,883 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null]
+2017-08-15 17:50:13,883 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null]
+2017-08-15 17:50:13,883 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}]
+2017-08-15 17:55:58,245 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Tue Aug 15 17:55:58 CST 2017]; root of context hierarchy
+2017-08-15 17:55:58,340 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-15 17:55:58,897 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-15 17:55:58,899 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-15 17:55:58,899 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-15 17:55:58,899 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-15 17:55:58,902 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-15 17:55:58,902 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null]
+2017-08-15 17:55:58,902 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null]
+2017-08-15 17:55:58,902 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null]
+2017-08-15 17:55:58,902 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp={171=总部二支队, 170=总部一支队}]
+2017-08-16 09:24:22,513 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:24:22 CST 2017]; root of context hierarchy
+2017-08-16 09:24:22,697 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:24:23,094 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:24:23,096 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:24:23,096 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:24:23,096 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:24:23,098 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:24:23,098 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:24:23,098 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null]
+2017-08-16 09:24:23,098 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null]
+2017-08-16 09:24:23,099 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp={171=总部二支队, 170=总部一支队}]
+2017-08-16 09:25:16,380 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:25:16 CST 2017]; root of context hierarchy
+2017-08-16 09:25:16,441 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:25:16,807 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:25:16,808 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:25:16,809 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:25:16,809 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:25:16,811 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:25:16,811 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:25:16,811 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null]
+2017-08-16 09:25:16,811 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null]
+2017-08-16 09:25:16,811 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp={171=总部二支队, 170=总部一支队}]
+2017-08-16 09:29:20,360 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:29:20 CST 2017]; root of context hierarchy
+2017-08-16 09:29:20,439 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:29:20,797 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:29:20,799 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:29:20,802 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:29:20,802 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:29:20,805 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null]]
+2017-08-16 09:29:20,806 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null]
+2017-08-16 09:29:20,806 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null]
+2017-08-16 09:29:20,807 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null]
+2017-08-16 09:29:20,807 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}]
+2017-08-16 09:36:56,703 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:36:56 CST 2017]; root of context hierarchy
+2017-08-16 09:36:56,779 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:36:57,122 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:36:57,123 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:36:57,124 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:36:57,124 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]]
+2017-08-16 09:36:57,128 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]]
+2017-08-16 09:36:57,129 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:36:57,129 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:36:57,129 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null, emps=null]
+2017-08-16 09:36:57,130 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=null]
+2017-08-16 09:36:57,131 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]], Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]]]]
+2017-08-16 09:41:46,010 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:41:46 CST 2017]; root of context hierarchy
+2017-08-16 09:41:46,081 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:41:46,376 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:41:46,378 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:41:46,378 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:41:46,378 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0, dept=Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]]
+2017-08-16 09:41:46,380 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0, dept=Dept [deptno=110, dname=销售部, loc=香港, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]]
+2017-08-16 09:41:46,380 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:41:46,380 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:41:46,380 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null, emps=null]
+2017-08-16 09:41:46,380 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=null]
+2017-08-16 09:42:44,106 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 09:42:44 CST 2017]; root of context hierarchy
+2017-08-16 09:42:44,173 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 09:42:44,494 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-16 09:42:44,496 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=10, dname=财务部, loc=郑州, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:42:44,497 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:42:44,497 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9527, ename=唐伯虎, sal=500.0]
+2017-08-16 09:42:44,500 INFO [com.zhiyou100.test.vo.Emp] - Emp [empno=9528, ename=金莲, sal=800.0]
+2017-08-16 09:42:44,500 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=15, dname=保安部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:42:44,501 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=16, dname=后勤部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap=null, groupProp=null, emps=null]
+2017-08-16 09:42:44,502 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=17, dname=公关部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关三大队}, groupProp=null, emps=null]
+2017-08-16 09:42:44,502 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=null]
+2017-08-16 09:42:44,503 INFO [com.zhiyou100.test.vo.Dept] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 10:23:07,727 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:23:07 CST 2017]; root of context hierarchy
+2017-08-16 10:23:07,829 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:24:14,684 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:24:14 CST 2017]; root of context hierarchy
+2017-08-16 10:24:14,759 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:24:15,180 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 10:29:19,715 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:29:19 CST 2017]; root of context hierarchy
+2017-08-16 10:29:19,793 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:29:22,131 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:29:22,384 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=101, dname=研发部, loc=上海, groups=null, groupSet=null, groupMap=null, groupProp=null, emps=null]
+2017-08-16 10:29:51,378 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:29:51 CST 2017]; root of context hierarchy
+2017-08-16 10:29:51,485 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:29:51,932 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:29:52,136 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 10:32:17,406 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:32:17 CST 2017]; root of context hierarchy
+2017-08-16 10:32:17,503 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:32:17,942 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:32:18,173 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'deptDAOImpl' defined in JNDI environment: JNDI lookup failed; nested exception is javax.naming.NoInitialContextException: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2017-08-16 10:33:03,684 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:33:03 CST 2017]; root of context hierarchy
+2017-08-16 10:33:03,781 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:33:04,252 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:33:04,508 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 10:33:35,602 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:33:35 CST 2017]; root of context hierarchy
+2017-08-16 10:33:35,732 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:33:36,215 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:34:11,951 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 10:34:11 CST 2017]; root of context hierarchy
+2017-08-16 10:34:12,055 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 10:34:12,468 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 10:34:12,672 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 15:47:58,314 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 15:47:58 CST 2017]; root of context hierarchy
+2017-08-16 15:47:58,402 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 15:50:27,621 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 15:50:27 CST 2017]; root of context hierarchy
+2017-08-16 15:50:27,721 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 15:50:28,483 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 15:50:28,851 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.context.event.internalEventListenerProcessor': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: Pointcut is not well-formed: expecting 'name pattern cannot finish with ..' at character position 44
+execution(public * com.zhiyou100..service.. *.*(..))
+                                            ^
+
+2017-08-16 15:52:10,483 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 15:52:10 CST 2017]; root of context hierarchy
+2017-08-16 15:52:10,551 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 15:52:11,059 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 15:52:11,665 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之前执行的操作...
+2017-08-16 15:52:11,665 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-16 15:52:11,665 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之后执行的操作...
+2017-08-16 15:52:11,665 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-16 15:54:08,986 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Wed Aug 16 15:54:08 CST 2017]; root of context hierarchy
+2017-08-16 15:54:09,052 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 15:54:09,497 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 15:54:10,150 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之前执行的操作...
+2017-08-16 15:54:10,152 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-16 15:54:10,152 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之后执行的操作...
+2017-08-16 15:54:10,152 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-16 17:05:47,128 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:05:47 CST 2017]; root of context hierarchy
+2017-08-16 17:05:47,194 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:05:47,496 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:05:47,700 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Cannot resolve reference to bean 'deptDao' while setting bean property 'dao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'deptDao' available
+2017-08-16 17:07:42,883 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:07:42 CST 2017]; root of context hierarchy
+2017-08-16 17:07:42,945 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:07:43,248 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:07:43,491 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Cannot resolve reference to bean 'deptDao' while setting bean property 'deptDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'deptDao' available
+2017-08-16 17:10:06,876 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:10:06 CST 2017]; root of context hierarchy
+2017-08-16 17:10:06,946 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:10:07,260 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:10:07,487 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Cannot resolve reference to bean 'deptDao' while setting bean property 'deptDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'deptDao' available
+2017-08-16 17:11:36,757 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:11:36 CST 2017]; root of context hierarchy
+2017-08-16 17:11:36,822 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:11:37,081 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Cannot resolve reference to bean 'deptDao' while setting bean property 'deptDao'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'deptDao' available
+2017-08-16 17:12:09,713 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:12:09 CST 2017]; root of context hierarchy
+2017-08-16 17:12:09,776 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:15:33,634 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:15:33 CST 2017]; root of context hierarchy
+2017-08-16 17:15:33,700 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:15:55,084 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:15:55 CST 2017]; root of context hierarchy
+2017-08-16 17:15:55,150 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:15:55,407 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 17:19:04,811 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:19:04 CST 2017]; root of context hierarchy
+2017-08-16 17:19:04,884 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:19:44,218 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:19:44 CST 2017]; root of context hierarchy
+2017-08-16 17:19:44,285 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:20:57,540 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:20:57 CST 2017]; root of context hierarchy
+2017-08-16 17:20:57,610 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:20:57,842 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'dao' of bean class [com.zhiyou100.test.service.impl.DeptServiceImpl]: Bean property 'dao' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2017-08-16 17:21:46,247 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:21:46 CST 2017]; root of context hierarchy
+2017-08-16 17:21:46,310 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:21:46,603 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 17:22:20,230 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:22:20 CST 2017]; root of context hierarchy
+2017-08-16 17:22:20,290 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:22:20,490 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'dao' of bean class [com.zhiyou100.test.service.impl.DeptServiceImpl]: Bean property 'dao' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2017-08-16 17:22:57,248 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:22:57 CST 2017]; root of context hierarchy
+2017-08-16 17:22:57,314 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:22:57,632 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:22:57,700 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'dao' of bean class [com.zhiyou100.test.service.impl.DeptServiceImpl]: Bean property 'dao' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2017-08-16 17:23:36,872 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:23:36 CST 2017]; root of context hierarchy
+2017-08-16 17:23:36,936 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:23:37,203 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:23:37,285 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptService' defined in class path resource [applicationContext.xml]: Error setting property values; nested exception is org.springframework.beans.NotWritablePropertyException: Invalid property 'dao' of bean class [com.zhiyou100.test.service.impl.DeptServiceImpl]: Bean property 'dao' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?
+2017-08-16 17:24:12,909 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:24:12 CST 2017]; root of context hierarchy
+2017-08-16 17:24:12,973 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:24:13,272 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:24:13,396 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 17:25:15,853 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Wed Aug 16 17:25:15 CST 2017]; root of context hierarchy
+2017-08-16 17:25:15,927 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-16 17:25:16,252 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-16 17:25:16,532 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之前执行的操作...
+2017-08-16 17:25:16,540 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-16 17:25:16,540 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之后执行的操作...
+2017-08-17 09:25:44,442 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Thu Aug 17 09:25:44 CST 2017]; root of context hierarchy
+2017-08-17 09:25:44,523 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 09:27:30,182 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Thu Aug 17 09:27:30 CST 2017]; root of context hierarchy
+2017-08-17 09:27:30,316 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 09:27:30,968 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 09:27:31,462 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'jdbcTemplate' defined in class path resource [applicationContext.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'dataSource' available
+2017-08-17 09:28:34,793 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Thu Aug 17 09:28:34 CST 2017]; root of context hierarchy
+2017-08-17 09:28:34,897 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 09:28:35,395 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 09:28:36,038 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之前执行的操作...
+2017-08-17 09:28:36,045 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-17 09:28:36,045 INFO [com.zhiyou100.test.proxy.ProxyService] - Message删除之后执行的操作...
+2017-08-17 09:29:31,342 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Thu Aug 17 09:29:31 CST 2017]; root of context hierarchy
+2017-08-17 09:29:31,453 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 09:29:31,925 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 09:29:32,327 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...
+2017-08-17 09:29:32,336 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-17 09:29:32,336 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 09:40:45,505 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@ee7d9f1: startup date [Thu Aug 17 09:40:45 CST 2017]; root of context hierarchy
+2017-08-17 09:40:45,590 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 09:40:46,029 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 09:40:46,566 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...
+2017-08-17 09:40:46,594 INFO [com.zhiyou100.test.dao.impl.DeptDAOImpl] - Dept [deptno=18, dname=总部, loc=兰考, groups=[ERP项目组, CRM项目组], groupSet=[后勤一组, 后期二组], groupMap={160=公关一大队, 161=公关二大队, 162=公关四大队}, groupProp={171=总部二支队, 170=总部一支队}, emps=[Emp [empno=9527, ename=唐伯虎, sal=500.0], Emp [empno=9528, ename=金莲, sal=800.0], Emp [empno=9326, ename=刘国华, sal=10000.0]]]
+2017-08-17 09:40:46,595 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:24:21,078 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:24:21 CST 2017]; root of context hierarchy
+2017-08-17 10:24:21,150 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:24:21,535 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:24:21,884 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.context.event.internalEventListenerProcessor': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: id [Xlint:invalidAbsoluteTypeName]
+2017-08-17 10:26:43,311 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:26:43 CST 2017]; root of context hierarchy
+2017-08-17 10:26:43,362 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:26:43,622 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:26:43,972 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.zhiyou100.test.dao.IDeptDAO' available: expected single matching bean but found 2: deptDAOImpl,deptDao
+2017-08-17 10:28:37,346 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@25618e91: startup date [Thu Aug 17 10:28:37 CST 2017]; root of context hierarchy
+2017-08-17 10:28:37,396 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:28:37,754 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:28:38,100 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'deptServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.zhiyou100.test.dao.IDeptDAO' available: expected single matching bean but found 2: deptDAOImpl,deptDao
+2017-08-17 10:29:55,813 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:29:55 CST 2017]; root of context hierarchy
+2017-08-17 10:29:55,879 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:29:56,313 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:29:56,766 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:29:56,766 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:29:56,767 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:29:56,767 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 10:38:07,671 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:38:07 CST 2017]; root of context hierarchy
+2017-08-17 10:38:07,730 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:38:08,101 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:38:08,639 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:38:08,639 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:38:08,640 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:38:08,640 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 10:38:08,640 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 10:49:42,736 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:49:42 CST 2017]; root of context hierarchy
+2017-08-17 10:49:42,814 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:49:43,371 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:49:44,117 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:49:44,118 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:49:44,118 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:49:44,118 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 10:49:44,119 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 10:51:17,750 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:51:17 CST 2017]; root of context hierarchy
+2017-08-17 10:51:17,854 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:51:18,375 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:51:18,934 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:51:18,934 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:51:18,935 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:51:18,935 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理抛出异常处理，异常为：java.lang.NullPointerException
+2017-08-17 10:54:19,512 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:54:19 CST 2017]; root of context hierarchy
+2017-08-17 10:54:19,562 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:54:19,874 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:54:20,250 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:54:20,251 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:54:20,251 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:54:20,251 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理抛出异常处理，异常为：java.lang.NullPointerException
+2017-08-17 10:55:12,505 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:55:12 CST 2017]; root of context hierarchy
+2017-08-17 10:55:12,590 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:55:13,028 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:55:13,617 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:55:13,617 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:55:13,618 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:55:13,618 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 10:55:13,618 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 10:57:19,815 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:57:19 CST 2017]; root of context hierarchy
+2017-08-17 10:57:19,886 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:57:20,412 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:57:20,727 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.context.event.internalEventListenerProcessor': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#2': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalStateException: Returning argument name 'q' was not bound in advice arguments
+2017-08-17 10:59:37,691 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 10:59:37 CST 2017]; root of context hierarchy
+2017-08-17 10:59:37,813 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 10:59:38,293 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 10:59:38,919 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 10:59:38,919 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 10:59:38,919 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:59:38,920 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 10:59:38,920 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 10:59:38,921 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 10:59:38,921 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：www.baidu.com
+2017-08-17 10:59:38,922 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - www.baidu.com
+2017-08-17 11:24:58,594 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:24:58 CST 2017]; root of context hierarchy
+2017-08-17 11:24:58,646 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:24:59,073 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:24:59,332 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.context.event.internalEventListenerProcessor': BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.aspectj.AspectJPointcutAdvisor#0': Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.aop.aspectj.AspectJPointcutAdvisor]: Constructor threw exception; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: id [Xlint:invalidAbsoluteTypeName]
+2017-08-17 11:26:29,923 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:26:29 CST 2017]; root of context hierarchy
+2017-08-17 11:26:29,988 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:26:30,376 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:26:30,780 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:26:30,780 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@2118cddf
+2017-08-17 11:26:30,781 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:28:19,642 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:28:19 CST 2017]; root of context hierarchy
+2017-08-17 11:28:19,691 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:28:20,060 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:28:20,478 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:28:20,478 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[zhiyoujava]
+2017-08-17 11:28:20,479 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:29:16,681 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:29:16 CST 2017]; root of context hierarchy
+2017-08-17 11:29:16,735 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:29:17,098 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:29:17,666 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:29:17,666 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:29:17,667 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[zhiyoujava]
+2017-08-17 11:29:17,667 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：true
+2017-08-17 11:29:17,667 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:29:17,667 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:32:52,878 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:32:52 CST 2017]; root of context hierarchy
+2017-08-17 11:32:52,938 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:32:53,324 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:32:53,883 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:32:53,883 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:32:53,885 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：zhiyoujava
+2017-08-17 11:32:53,886 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...false
+2017-08-17 11:32:53,886 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：true
+2017-08-17 11:32:53,890 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:32:53,895 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:35:30,927 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:35:30 CST 2017]; root of context hierarchy
+2017-08-17 11:35:30,981 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:35:31,345 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:35:31,804 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:35:31,804 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：zhiyoujava
+2017-08-17 11:41:25,070 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:41:25 CST 2017]; root of context hierarchy
+2017-08-17 11:41:25,136 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:41:25,727 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:41:26,337 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:41:26,338 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[zhiyoujava]
+2017-08-17 11:41:26,338 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：zhiyoujava
+2017-08-17 11:41:56,629 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:41:56 CST 2017]; root of context hierarchy
+2017-08-17 11:41:56,701 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:41:57,065 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:41:57,562 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:41:57,562 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[zhiyoujava]
+2017-08-17 11:41:57,562 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：zhiyoujava
+2017-08-17 11:41:57,563 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...false
+2017-08-17 11:41:57,563 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...true
+2017-08-17 11:41:57,563 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:43:02,692 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@25618e91: startup date [Thu Aug 17 11:43:02 CST 2017]; root of context hierarchy
+2017-08-17 11:43:02,736 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:43:03,086 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:43:03,548 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:43:03,549 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@1356d4d4
+2017-08-17 11:43:03,549 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:44:14,316 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:44:14 CST 2017]; root of context hierarchy
+2017-08-17 11:44:14,366 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:44:14,610 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:44:14,903 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：zhiyoujava
+2017-08-17 11:44:14,903 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:44:51,553 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:44:51 CST 2017]; root of context hierarchy
+2017-08-17 11:44:51,628 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:44:52,077 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:44:52,601 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:44:52,602 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@5552768b
+2017-08-17 11:44:52,602 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:47:20,292 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:47:20 CST 2017]; root of context hierarchy
+2017-08-17 11:47:20,371 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:47:20,749 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:47:21,037 WARN [org.springframework.context.support.ClassPathXmlApplicationContext] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.context.event.internalEventListenerProcessor': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: id [Xlint:invalidAbsoluteTypeName]
+2017-08-17 11:48:41,310 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:48:41 CST 2017]; root of context hierarchy
+2017-08-17 11:48:41,374 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:48:41,768 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:48:42,302 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:48:42,302 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@4a668b6e
+2017-08-17 11:48:42,303 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 11:49:20,564 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:49:20 CST 2017]; root of context hierarchy
+2017-08-17 11:49:20,634 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:49:21,027 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:49:21,534 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:49:21,535 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:49:21,535 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 11:49:21,536 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 11:53:30,870 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:53:30 CST 2017]; root of context hierarchy
+2017-08-17 11:53:30,938 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:53:31,531 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:53:32,199 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:53:32,200 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:53:32,201 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 11:53:32,201 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:53:32,202 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 11:53:32,202 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:53:32,203 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-17 11:53:32,203 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-17 11:54:17,909 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:54:17 CST 2017]; root of context hierarchy
+2017-08-17 11:54:17,977 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:54:18,359 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:54:18,963 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:54:18,963 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110
+2017-08-17 11:54:18,964 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-17 11:54:18,964 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:54:18,964 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理抛出异常处理，异常为：java.lang.NullPointerException
+2017-08-17 11:54:18,964 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:54:18,965 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理抛出异常处理，异常为：java.lang.NullPointerException
+2017-08-17 11:54:58,091 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 11:54:58 CST 2017]; root of context hierarchy
+2017-08-17 11:54:58,157 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 11:54:58,561 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 11:54:59,333 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 11:54:59,349 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@2beee7ff
+2017-08-17 11:54:59,350 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 11:54:59,350 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：true
+2017-08-17 11:54:59,350 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-17 15:16:36,132 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Thu Aug 17 15:16:36 CST 2017]; root of context hierarchy
+2017-08-17 15:16:36,192 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-17 15:16:36,972 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-17 15:16:37,784 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-17 15:16:37,784 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@52102734
+2017-08-17 15:16:37,785 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-17 15:16:37,785 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：true
+2017-08-17 15:16:37,785 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-18 09:33:31,465 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Fri Aug 18 09:33:31 CST 2017]; root of context hierarchy
+2017-08-18 09:33:31,608 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-18 09:33:32,205 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-18 09:33:33,086 INFO [com.zhiyou100.test.proxy.ProxyService] - Before处理...[110]
+2017-08-18 09:33:33,086 INFO [com.zhiyou100.test.proxy.ProxyService] - After处理...[Ljava.lang.Object;@5939a379
+2017-08-18 09:33:33,086 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-18 09:33:33,087 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：true
+2017-08-18 09:33:33,087 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - true
+2017-08-18 09:34:04,749 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@25618e91: startup date [Fri Aug 18 09:34:04 CST 2017]; root of context hierarchy
+2017-08-18 09:34:04,821 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-18 09:34:05,176 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-18 09:34:05,820 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110参数2：110
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110参数2：110
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-18 09:34:05,821 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-18 09:34:05,822 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-18 09:39:02,016 INFO [org.springframework.context.support.ClassPathXmlApplicationContext] - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@483bf400: startup date [Fri Aug 18 09:39:02 CST 2017]; root of context hierarchy
+2017-08-18 09:39:02,066 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [applicationContext.xml]
+2017-08-18 09:39:02,437 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-08-18 09:39:02,782 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之前执行的操作...110参数2：110
+2017-08-18 09:39:02,782 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行删除操作，当前删除的mid是：110
+2017-08-18 09:39:02,783 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-18 09:39:02,783 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-18 09:39:02,783 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
+2017-08-18 09:39:02,783 INFO [com.zhiyou100.test.service.impl.MessageServiceImpl] - 业务层执行login操作，当前username是：张三, 密码是：123456
+2017-08-18 09:39:02,784 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理之后执行的操作...
+2017-08-18 09:39:02,784 INFO [com.zhiyou100.test.proxy.ProxyService] - Message业务处理后返回的操作..., 返回值为：false
+2017-08-18 09:39:02,784 INFO [com.zhiyou100.test.junit.MessageServiceImplTest] - false
